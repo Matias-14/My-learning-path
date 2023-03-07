@@ -51,3 +51,11 @@
 
 ## HTML-CSS Markup Language
 
+## Flowcharts
+
+1. ![Calculadora](https://user-images.githubusercontent.com/123888488/223506486-e2e40c12-d6f3-469f-a37a-4906b04da0f1.png)
+	Calculator_Mendoza (You can find this exercise on "Exercise 2.0")
+	
+## Exercises 2.0
+
+
