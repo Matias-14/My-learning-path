@@ -54,10 +54,9 @@
 ## Flowcharts
 
 1. ![Calculadora](https://user-images.githubusercontent.com/123888488/223506486-e2e40c12-d6f3-469f-a37a-4906b04da0f1.png)
-	Calculator_Mendoza (You can find this exercise on "Exercise 2.0")
-	https://raw.githubusercontent.com/Matias-14/My-learning-path/main/10/Exercises%202.0/Calculator_Matias.cs
+	[Calculator_Mendoza](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/10/Exercises%202.0/Calculator_Matias.cs) (You can find this exercise on "Exercise 2.0")
+	
 	
 ## Exercises 2.0
-	1. Calculator https://raw.githubusercontent.com/Matias-14/My-learning-path/main/10/Exercises%202.0/Calculator_Matias.cs
+1. [Calculator](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/10/Exercises%202.0/Calculator_Matias.cs)
 	
-
