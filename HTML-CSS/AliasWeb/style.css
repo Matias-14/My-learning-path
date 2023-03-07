@@ -1,0 +1,57 @@
+body {
+    background-image: url("https://pixabay.com/get/g29a05953ff53cad0e4710f3b7f24ffabf35642532ca1003a153eb8835de6d1165691819d19e5b5f37c08a4eed340716857b8d871308b9159c4894345422fced6_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+.texto_web{
+    margin-left: 10%;
+    margin-right:20%;
+    margin-top: 15%;
+    margin-bottom: 30%;
+    font-family: Helvetica, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    line-height: 3.0;
+    font-size: 25px;
+    color: whitesmoke;
+    border: solid white 1px;}
+
+
+
+nav ul {
+     display: inline-block; /* O flex */
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        margin-left: 40%;
+        background-color: black
+       
+      }
+      
+      nav li {
+        display: inline-block; /* O flex */
+        margin-left: 45px; margin-right: 60px;
+        color: whitesmoke;
+      }
+      nav a {
+        text-decoration: none;
+        color: white;
+        font-family: Arial, sans-serif;
+        font-size: 18px;
+      }
+      nav a:hover {
+        text-decoration: underline;
+        color: blue;
+      }
+/* Estilos del botón */
+
+  footer {
+    background-color: rgba(255, 255, 255, 0.8); /* Color blanco con transparencia */
+    color: black; /* Color negro para el texto */
+    font-family: Arial, sans-serif; /* Tipo de letra */
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    margin-left: 40%;
+  }    
