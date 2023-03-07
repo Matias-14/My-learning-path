@@ -2,31 +2,31 @@
 
 ## C# Languague: sequential programming
 
-1.[Area and perimeter of a circle](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/ejercicio_1_Matias.cs)
+1. [Area and perimeter of a circle](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/ejercicio_1_Matias.cs)
 
-2.[Mean of three numbers](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_2_Matias.cs)
+2. [Mean of three numbers](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_2_Matias.cs)
   
-3.[Currency converter](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_3_Matias.cs)
+3. [Currency converter](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_3_Matias.cs)
   
-4.[Area of a triangle](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_4_Matias.cs)
+4. [Area of a triangle](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_4_Matias.cs)
   
-5.[Hypotenuse of a right triangle](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_5_Matias.cs)
+5. [Hypotenuse of a right triangle](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_5_Matias.cs)
   
-6.[Area of a circular crown](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_6_Matias.cs)
+6. [Area of a circular crown](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_6_Matias.cs)
 
-7.[Cost of gasoline on a trip](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_7_Matias.cs)
+7. [Cost of gasoline on a trip](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_7_Matias.cs)
 
-8.[Gasoline cost at 5L of gasoline per 100km traveled](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_8_Matias.cs)
+8. [Gasoline cost at 5L of gasoline per 100km traveled](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_8_Matias.cs)
 
-9.[Lottery proportional distributions](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_9_Matias.cs)
+9. [Lottery proportional distributions](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_9_Matias.cs)
   
-10.[Transformation of seconds in hours, minutes, seconds](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_10_Matias.cs)
+10. [Transformation of seconds in hours, minutes, seconds](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_10_Matias.cs)
 
-11.[Results of a survey in percentages](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/ejercicio_once.cs)
+11. [Results of a survey in percentages](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/ejercicio_once.cs)
 
-12.[Calculation of the actual disk space occupied by a file](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/ejercicio_doce.cs)
+12. [Calculation of the actual disk space occupied by a file](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/ejercicio_doce.cs)
 
-13.[Chessboard](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/ejercicio.trece.cs)
+13. [Chessboard](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/ejercicio.trece.cs)
 
 14.
 
