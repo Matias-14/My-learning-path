@@ -2,26 +2,19 @@
 
 ## C# Languague: sequential programming
 
-1.Area and perimeter of a circle
-	[ejercicio_1_Matias.txt](https://github.com/Matias-14/My-learning-path/files/10907174/ejercicio_1_Matias.txt)
+1.[Area and perimeter of a circle](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/ejercicio_1_Matias.cs)
 
-2.Mean of three numbers
-  [Ejercicio_2_Matias.txt](https://github.com/Matias-14/My-learning-path/files/10907057/Ejercicio_2_Matias.txt)
+2.[Mean of three numbers](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_2_Matias.cs)
   
-3.Currency converter
-  [Ejercicio_3_Matias.txt](https://github.com/Matias-14/My-learning-path/files/10907074/Ejercicio_3_Matias.txt)
+3.[Currency converter](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_3_Matias.cs)
   
-4.Area of a trignale
-  [Ejercicio_4_Matias.txt](https://github.com/Matias-14/My-learning-path/files/10907155/Ejercicio_4_Matias.txt)
+4.[Area of a trignale](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_4_Matias.cs)
   
-5.Hypotenuse of a right triangle
-  [Ejercicio_5_Matias.txt](https://github.com/Matias-14/My-learning-path/files/10907158/Ejercicio_5_Matias.txt)
+5.[Hypotenuse of a right triangle](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_5_Matias.cs)
   
-6.Area of a circular crown
-  [Ejercicio_6_Matias.txt](https://github.com/Matias-14/My-learning-path/files/10907161/Ejercicio_6_Matias.txt)
+6.[Area of a circular crown](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_6_Matias.cs)
 
-7.Cost of gasoline on a trip
-  [Ejercicio_7_Matias.txt](https://github.com/Matias-14/My-learning-path/files/10907163/Ejercicio_7_Matias.txt)
+7.[Cost of gasoline on a trip](https://raw.githubusercontent.com/Matias-14/My-learning-path/main/Sequential%20programming/Ejercicio_7_Matias.cs)
 
 8.Gasoline cost at 5L of gasoline per 100km traveled
   [Ejercicio_8_Matias.txt](https://github.com/Matias-14/My-learning-path/files/10907164/Ejercicio_8_Matias.txt)
