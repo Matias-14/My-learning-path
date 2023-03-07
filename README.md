@@ -36,7 +36,8 @@
 ## HTML-CSS Markup Language
 
 # Alias_Web
-	![Alias_Web](https://user-images.githubusercontent.com/123888488/223516248-65e81252-ad8f-4ead-9b46-e2a9ec352db8.jpeg)
+![Alias_Web](https://user-images.githubusercontent.com/123888488/223516447-b3096b36-7b99-45dc-9832-251d13cbfb3a.jpeg)
+
 
 
 ## Flowcharts
