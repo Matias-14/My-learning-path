@@ -8,7 +8,7 @@
 ## HTML-CSS Markup Language
 
 ###Kerala_Web###
-![Kerala](https://user-images.githubusercontent.com/123888488/230059473-347dfab3-f437-4a10-84c8-60c9dc6e3247.jpg)
+HTML-CSS/Kerala.jpg
 
 
 
