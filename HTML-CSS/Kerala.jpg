@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!-- saved from url=(0089)file:///C:/Users/mendo/Desktop/Proyectos%20Visual%20Studio%20Code/Web%20Viajes/index.html -->
+<html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./Kerala_files/index.css">
+        <title>Kerala</title>
+    </head>
+    <body>
+        <main>
+            <h1 class="encabezado">Kerala</h1>
+              <nav>
+                  <ol>
+                    <li><a href="file:///C:/Users/mendo/Desktop/Proyectos%20Visual%20Studio%20Code/Web%20Viajes/sobre_nosotros.html">Sobre nosotros</a></li>
+                    <li><a href="file:///C:/Users/mendo/Desktop/Proyectos%20Visual%20Studio%20Code/Web%20Viajes/coordinamos_tu_viaje.html">Gestionamos tu viaje</a></li>
+                    <li><a href="file:///C:/Users/mendo/Desktop/Proyectos%20Visual%20Studio%20Code/Web%20Viajes/presupuesto.html">Presupuestos</a></li>
+                  </ol>
+              </nav>
+            <div class="contenedor_2">
+                    <div class="tarjeta tarjeta_Ibiza">
+                      <a href="file:///C:/Users/mendo/Desktop/Proyectos%20Visual%20Studio%20Code/Web%20Viajes/ibiza.html">
+                        <img src="./Kerala_files/Ibiza.jpg" alt="Ibiza">
+                        <h3>Pitiüsas</h3>
+                      </a>
+                    </div>
+                    <div class="tarjeta tarjeta_Mallorca">
+                      <a href="file:///C:/Users/mendo/Desktop/Proyectos%20Visual%20Studio%20Code/Web%20Viajes/mallorca.html">
+                        <img src="./Kerala_files/Mallorca.jpg" alt="Mallorca">
+                        <h3>Mallorca</h3>
+                      </a>    
+                    </div>
+                    <div class="tarjeta tarjeta_Menorca">
+                       <a href="file:///C:/Users/mendo/Desktop/Proyectos%20Visual%20Studio%20Code/Web%20Viajes/menorca.html">
+                        <img src="./Kerala_files/Menorca.jpg" alt="Menorca">
+                        <h3>Menorca</h3>
+                       </a> 
+                    </div>
+             </div>
+             <div class="contenedor_4">
+                <div class="caja">
+                  <a href="file:///C:/Users/mendo/Desktop/Proyectos%20Visual%20Studio%20Code/Web%20Viajes/Turismo_sostenible.html">
+                    <img src="./Kerala_files/pa-amb-oli-612058_1280.jpg" alt="pa_amb_oli">
+                    <h4>Turismo sostenible</h4>
+                  </a>
+                </div>
+              </div>
+        </main>
+          <footer class="footer">
+            <div class="logo">
+              <a href="https://twitter.com/?lang=es">
+                <img src="./Kerala_files/twitter.png" alt="Logo 1">
+              </a>
+              <a href="https://www.instagram.com/">
+                <img src="./Kerala_files/instagram.png" alt="Logo 2">
+              </a>
+              <a href="https://es.trustpilot.com/">
+                <img src="./Kerala_files/Trust_pilot.png" alt="Logo 3">
+              </a>
+            </div>
+            <div class="contacto">
+              <p>Dirección: Calle Kerala, 123, 45678, Baleares</p>
+              <p>info@kerala.com</p>
+            </div>
+          </footer>
+    
+</body></html>

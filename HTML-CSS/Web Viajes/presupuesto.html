@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="index.css">
+        <title>Presupuesto</title>
+    </head>
+    <body>
+        <main>
+            <h1>Presupuesto</h1>
+                <div class="contenedor_formulario">
+                    <form action="formulario_enviado.html" method="get">
+                        <fieldset>
+                            <legend>Nombre</legend>
+                            <input type="text" name="Nombre" id="Nombre">
+                        </fieldset>
+                        <fieldset>
+                            <legend>Correo</legend>
+                            <input type="email" name="email" id="email">
+                        </fieldset>
+                        <fieldset>
+                            <legend>Teléfono</legend>
+                            <input type="number" name="telefono" id="telefono">
+                        </fieldset>
+                        <fieldset>
+                            <legend>Itinerario</legend>
+                            <select name="itinerario" id="itinerario">
+                                <option value="opcion">Selecciona tipo de itinerario</option>
+                                <option value="opcion">Familiar</option>
+                                <option value="opcion">Parejas</option>
+                                <option valueo="opcion">Empresas</option>
+                                <option value="opcion">Otro</option>
+                            </select>
+                        </fieldset>
+                        <fieldset>
+                            <legend>Ida</legend>
+                            <input type="date">
+                        </fieldset>
+                        <fieldset>
+                            <legend>Vuelta</legend>
+                            <input type="date">
+                        </fieldset>
+                    </form>
+                    <button class="volver boton_formulario" type="submit"><a href="formulario_enviado.html">Enviar</a></button>
+                </div>
+        </main>
+        <button class="volver" type="submit"><a href="index.html">Volver</a></button>
+    </body>
+</html>

@@ -1,0 +1,494 @@
+
+body{
+  background-image: url("Fondo/water-4848741_1920.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+/*------Estilo descripción/nav bar----*/
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid black;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 1.5rem;
+}
+
+nav{
+    margin-right: 28%;
+    margin-left: 28%;
+}
+
+    ol{
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        color: beige;
+        font-family: montserrat, sans-serif;
+        font-size: large;
+    }
+
+        
+ol li {
+    border-bottom: 2px solid white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-right: 40px;
+    text-decoration: none;
+}
+
+ol li:hover{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a::after{
+    text-decoration: none;
+}
+/*------Estilo tarjetas de viaje----*/
+.contenedor_2{
+    display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+    .tarjeta{
+        position: relative;
+        margin: 20px;
+        width: 300px;
+        height: 400px;
+        background-color: #ADD8E6;
+        transition: transform 0.5s;
+        overflow: hidden;
+        cursor: pointer;
+        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+        border-radius: 10px;
+        box-sizing: border-box;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .tarjeta:hover{
+        transform: scale(1.1);
+			z-index: 1;
+    }
+        .tarjeta img{
+            width: 100%;
+            height: 60%;
+            object-fit: cover;
+        }
+        .tarjeta h3{
+            margin: 20px;
+			font-size: 1.2rem;
+        }
+    .tarjeta_Mallorca{
+        height: 460px;
+    }
+
+/*------Estilo tarjetas de recomendación----*/
+
+.contenedor_4 {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+
+    .caja img{
+        width: 100%;
+        height: 60%;
+        object-fit: cover;
+
+    }
+
+    .tarjeta h4{
+        margin: 20px;
+        font-size: 24px;
+    }
+  
+    .caja {
+        width: 30%;
+        height: 200px;
+        background-color: #f2f2f2;
+        border-radius: 8px;
+        box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+        transition: all 0.2s ease-in-out;
+        margin-left: 35%;
+        margin-right: 35%;
+    }
+    
+    .caja:hover {
+        transform: translateY(-5px);
+        box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2);
+    }
+    
+    h4 {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 1.5rem;
+    }
+
+/*------Estilo footer------*/
+footer{
+    background-color: #F4F4F4;
+    color: #333333;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15%;
+    border-radius: 25px;
+
+}
+    .footer .logo {
+        display: flex;
+        align-items: right;
+    }
+    
+    .footer .logo img {
+        width: 30px;
+        height: 30px;
+        margin-right: 10px;
+    }
+
+/*------Estilo sobre_nosotros------*/
+
+.cuadro_texto{ 
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-right: 20%;
+
+}
+
+p{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.volver{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.volver:hover {
+    background-color: #555;
+  }
+
+/*------Estilo Coordinamos tu viaje------*/
+.mapa_servicios {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    }  
+
+/*-----Estilo tarjetas servicios---*/
+
+    .hoteles{
+        text-align: center;
+    }
+    .viajes{
+        text-align: center;
+    }
+    .restaurantes{
+        text-align: center;
+    }
+    .excursiones{
+        text-align: center;
+    }
+    .charter{
+        text-align: center;
+    }
+    .patrimonio{
+        text-align: center;
+    }
+    .orientacion{
+        text-align: center;
+    }
+
+    .hoteles:hover .contenido {
+      display: block;
+
+    }
+  
+    .viajes:hover .contenido {
+        display: block;
+      }
+
+    .restaurantes:hover .contenido {
+        display: block;
+      }
+
+    .excursiones:hover .contenido {
+        display: block;
+      }
+
+    .charter:hover .contenido {
+        display: block;
+      }
+
+    .patrimonio:hover .contenido {
+        display: block;
+      }
+    .orientacion:hover .contenido {
+        display: block;
+      }
+    .contenido{
+        display: none;
+    }
+
+/*---------Diseño formulario-----*/
+
+.contenedor_formulario{
+    
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Estilos para los inputs */
+  input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 16px;
+  }
+  
+  input:focus {
+    outline: none;
+    box-shadow: 0 0 5px #ccc;
+  }
+  
+  /* Estilos para los fieldsets */
+  fieldset {
+    border: none;
+    margin-bottom: 20px;
+  }
+  
+  legend {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color:  #f1f1f1;
+  }
+  
+  /* Estilos para los selects */
+  select {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 16px;
+    appearance: none;
+    background-position: right 10px top 50%;
+  }
+  
+  /* Estilos para las opciones de los selects */
+  option {
+    color: #333;
+  }
+
+.boton_formulario{
+    margin-left: 48%;
+}
+
+/* Estilos para página Ibiza  */
+
+.isla{
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 25px;
+}
+
+/* Estilos para turismo sostenible  */
+
+/* Estilos para el contenedor principal */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  
+  /* Estilos para la tarjeta */
+  .card {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    perspective: 1000px;
+    margin: 0 20px 40px;
+  }
+  
+  .card-front, .card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    transition: transform 0.6s ease;
+  }
+  
+  .card-front {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+  }
+  
+  .card-front img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    transition: transform 0.6s ease;
+  }
+  
+  .card-front h2 {
+    margin: 20px;
+    font-size: 1rem;
+    text-align: center;
+    padding-bottom: 12%;
+  }
+  
+  .card-back {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    transform: rotateY(180deg);
+  }
+  
+  .card-back p {
+    margin: 20px 0;
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  .card-back a {
+    font-size: 0.8rem;
+    text-decoration: none;
+    color: #008080;
+  }
+  
+  .card-back a:hover {
+    text-decoration: underline;
+  }
+  
+  .card:hover .card-front {
+    transform: rotateY(-180deg);
+  }
+  
+  .card:hover .card-back {
+    transform: rotateY(0deg);
+  }
+  
+  /* Estilos para el contenedor de tarjetas */
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    /* Estilos para dispositivos móviles */
+    body {
+      background-position: top;
+    }
+
+  
+    .contenedor_2, .contenedor_4 {
+      margin-left: 5%;
+      margin-right: 5%;
+    }
+  
+    .tarjeta {
+      width: 90%;
+      height: auto;
+      margin: 10px auto;
+    }
+  
+    .tarjeta h3 {
+      font-size: 1rem;
+    }
+  
+    .caja {
+      width: 90%;
+      height: auto;
+      margin: 10px auto;
+    }
+  
+    .tarjeta h4 {
+      font-size: 1.2rem;
+    }
+  
+    footer {
+      margin-top: 10%;
+    }
+  
+    .cuadro_texto {
+      margin: 5%;
+    }
+  
+    p {
+      font-size: 14px;
+    }
+  
+    .volver {
+      font-size: 14px;
+      padding: 5px 10px;
+    }
+  }
+  
