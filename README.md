@@ -8,7 +8,7 @@
 ## HTML-CSS Markup Language
 
 ###Kerala_Web###
-[HTML-CSS/Kerala.jpg](https://github.com/Matias-14/My-learning-path/blob/2c1521d3415f3b787e7ab67d8bfc77e5cebaf2e2/HTML-CSS/Kerala.jpg)
+![HTML-CSS/Kerala.jpg](https://github.com/Matias-14/My-learning-path/blob/2c1521d3415f3b787e7ab67d8bfc77e5cebaf2e2/HTML-CSS/Kerala.jpg)
 
 
 
